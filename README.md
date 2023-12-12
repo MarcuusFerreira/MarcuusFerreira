@@ -1,5 +1,11 @@
 # 💫 Sobre Mim:
-Oii! Eu sou Marcus Ferreira 😄😄<br><br>Atualmente estou estudando sobre Python para me aventurar no mundo de dados.
+Oii! Eu sou Marcus Ferreira 😄😄
+<br><br>
+Atualmente estou estudando sobre Python para me aventurar na engenharia de dados.
+<br></br>
+Gosto muito de utilizar a linguagem python e me divirto muito aprendendo mais sobre bancos de dados principalmente Oracle e Postgres, e tenho muito interesse em aprender e econhecer mais do Python, aprender mais a utilizar o Pandas, Spark, SQLAlchemy.
+<br></br>
+Pretendo me especializar no mercado da engenharia de dados.
 
 
 ## 🌐 Sociais:
