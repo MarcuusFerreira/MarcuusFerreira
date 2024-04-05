@@ -1,12 +1,12 @@
 # 💫 Sobre Mim:
 Oii! Eu sou Marcus Ferreira 😄😄
 <br><br>
-Atualmente estou estudando sobre Python para me aventurar na engenharia de dados.
+Desenvolvedor Júnior
 <br></br>
-Gosto muito de utilizar a linguagem python e me divirto muito aprendendo mais sobre bancos de dados principalmente Oracle e Postgres, e tenho muito interesse em aprender e conhecer mais do Python, aprender mais a utilizar o Pandas, Spark, SQLAlchemy.
+Gosto muito de utilizar a linguagem Java e Python e me divirto muito aprendendo mais sobre bancos de dados principalmente Oracle e Postgres, tenho muito interesse em aprender e conhecer mais sobre o desenvolvimento de software a dados, aprendendo mais sobre a arquitetura dos sistemas.
 <br></br>
-Pretendo me especializar no mercado da engenharia de dados.
-
+Possuo experiencia com Spring Boot, NodeJS, SQL, Pandas e PL/SQL.
+<br></br>
 
 ## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/marcus-vc-ferreira) 
